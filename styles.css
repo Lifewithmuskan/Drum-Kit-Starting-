@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+ background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
 }
 
 h1 {
@@ -69,7 +69,7 @@ background-image: url(kick.png);
 
 .drum {
   outline: none;
-  border: 10px solid #404B69;
+  border: 10px solid pink;
   font-size: 5rem;
   font-family: 'Arvo', cursive;
   line-height: 2;
